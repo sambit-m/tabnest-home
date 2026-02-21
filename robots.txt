@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Disallow: /privacy.html
+Sitemap: https://sambit-m.github.io/tabnest-privacy-policy/sitemap.xml
