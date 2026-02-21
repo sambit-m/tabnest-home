@@ -34,4 +34,4 @@ TabNest does not use remote code. All executable code is packaged with the exten
 
 ## Contact
 
-For privacy questions, contact: sambit.m@example.com
+For privacy questions, contact: sambit95@gmail.com
